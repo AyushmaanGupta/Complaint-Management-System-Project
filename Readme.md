@@ -185,5 +185,3 @@ This class creates a new window that displays all the complaints.
 
 
 
-
-###video Demo - https://youtu.be/6Wja7X-46fQ
